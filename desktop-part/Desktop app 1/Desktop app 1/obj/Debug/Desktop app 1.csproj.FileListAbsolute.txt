@@ -1,0 +1,23 @@
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\Desktop app 1.csproj.AssemblyReference.cache
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\DashboardWindow.baml
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\LoginWindow.baml
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\RegisterWindow.baml
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\ReportWindow.baml
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\DashboardWindow.g.cs
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\LoginWindow.g.cs
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\MainWindow.g.cs
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\RegisterWindow.g.cs
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\ReportWindow.g.cs
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\App.g.cs
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\Desktop app 1_MarkupCompile.cache
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\Desktop app 1_MarkupCompile.lref
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\bin\Debug\Desktop app 1.exe.config
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\bin\Debug\Desktop app 1.exe
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\bin\Debug\Desktop app 1.pdb
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\MainWindow.baml
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\Desktop app 1.g.resources
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\Desktop_app_1.Properties.Resources.resources
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\Desktop app 1.csproj.GenerateResource.cache
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\Desktop app 1.csproj.CoreCompileInputs.cache
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\Desktop app 1.exe
+F:\Grad project\Desktop app\Desktop app\Desktop app 1\Desktop app 1\obj\Debug\Desktop app 1.pdb

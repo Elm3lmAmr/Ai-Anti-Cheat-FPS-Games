@@ -1,0 +1,77 @@
+﻿<Window x:Class="XonticAntiCheatFinal.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Register" 
+        Height="450" Width="350"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid Background="#1E1E1E" Margin="20">
+        <StackPanel>
+            <TextBlock Text="Create Account" 
+                      FontSize="20" 
+                      Foreground="White"
+                      Margin="0 0 0 20"/>
+
+            <!-- Username -->
+            <TextBlock Text="Username" 
+                      Foreground="#CCCCCC"
+                      Margin="0 0 0 5"/>
+            <TextBox x:Name="txtUsername" 
+                    Height="30"
+                    Background="#333333"
+                    Foreground="White"
+                    BorderBrush="#555555"
+                    Margin="0 0 0 15"/>
+
+            <!-- Email -->
+            <TextBlock Text="Email" 
+                      Foreground="#CCCCCC"
+                      Margin="0 0 0 5"/>
+            <TextBox x:Name="txtEmail" 
+                    Height="30"
+                    Background="#333333"
+                    Foreground="White"
+                    BorderBrush="#555555"
+                    Margin="0 0 0 15"/>
+
+            <!-- Password -->
+            <TextBlock Text="Password" 
+                      Foreground="#CCCCCC"
+                      Margin="0 0 0 5"/>
+            <PasswordBox x:Name="txtPassword" 
+                       Height="30"
+                       Background="#333333"
+                       BorderBrush="#555555"
+                       Margin="0 0 0 15"/>
+
+            <!-- Confirm Password -->
+            <TextBlock Text="Confirm Password" 
+                      Foreground="#CCCCCC"
+                      Margin="0 0 0 5"/>
+            <PasswordBox x:Name="txtConfirmPassword" 
+                       Height="30"
+                       Background="#333333"
+                       BorderBrush="#555555"
+                       Margin="0 0 0 20"/>
+
+            <!-- Register Button -->
+            <Button x:Name="btnRegister"
+                   Content="REGISTER"
+                   Width="200"
+                   Height="35"
+                   Background="#007ACC"
+                   Foreground="White"
+                   FontWeight="Bold"
+                   Click="BtnRegister_Click"
+                   HorizontalAlignment="Center"/>
+
+            <!-- Error Message -->
+            <TextBlock x:Name="txtError"
+                      Foreground="Red"
+                      TextWrapping="Wrap"
+                      HorizontalAlignment="Center"
+                      Margin="0 15 0 0"
+                      Visibility="Collapsed"/>
+        </StackPanel>
+    </Grid>
+</Window>
