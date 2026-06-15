@@ -1,0 +1,566 @@
+######## start logging: 20260610_22.42.29
+parsing commandline argument 1: "--home=profile"
+Using home directory: profile\
+parsing commandline argument 2: "--init"
+writing to file: profile\clientlog.txt
+init: sdl (2.0.14)
+SDL: compiled version 2.0.14, linked version 2.0.12
+init: net (1.3.6)
+init: world (-(1302))
+EVENTS FILE OPENED: data\events_amir.csv
+MATCHES FILE OPENED: data\matches_amir.csv
+PLAYERS FILE OPENED
+init: video: sdl
+init: video: mode
+init: video: misc
+init: gl
+Renderer: AMD Radeon(TM) Graphics (ATI Technologies Inc.)
+Driver: 4.6.0 Compatibility Profile Context 24.9.1.240813
+init: console
+ loaded igraph "P", short "P", 32x32, 1 frame
+ loaded igraph "O", short "O", 32x32, 1 frame
+ loaded igraph "D", short "D", 32x32, 1 frame
+ loaded igraph "blink_1600_300_200_300", short "blink", 64x32, 4 frames
+ loaded igraph "9", short "9", 32x32, 1 frame
+ loaded igraph "8", short "8", 32x32, 1 frame
+ loaded igraph "3", short "3", 32x32, 1 frame
+ loaded igraph "1", short "1", 34x34, 1 frame
+ loaded igraph ")", short ")", 32x32, 1 frame
+ loaded igraph "(", short "(", 32x32, 1 frame
+init: sound
+Audio devices: Generic Software
+Sound: Generic Software / Software (Creative Labs Inc.)
+Driver: 1.1
+init: cfg
+loaded 1 xmaps
+init: models
+init: docs
+docident: very long description for ident winners (126)
+docident: very long description for ident _defaultbinds (126)
+docident: very long description for ident specbind (112)
+docident: very long description for ident enlargevdeltaselections (124)
+docident: very long description for ident mapmodelslotname (113)
+docident: very long description for ident newent mapmodel (119)
+docref: circular reference for tagnum
+docident: very long description for ident showmapbackdrop (125)
+docident: very long description for ident dynlight (114)
+docref: circular reference for maxrolleffect
+docident: very long description for ident maxrollremote (116)
+docident: very long description for ident docwritetodoref (117)
+docident: very long description for ident authmemusage (115)
+docident: very long description for ident authrounds (114)
+docident: very long description for ident xhairwpsel (116)
+init: localconnect
+init: mainloop
+SESSION STARTED
+MATCH LOGGED: M20260610_224230_854
+PLAYER LOGGED: P001
+FILE OPENED SUCCESS
+T: 1.85 | Shoot: 0 | X: 64.00 Y: 64.00 Z: 4.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+ found headerextra "vantage point", 11 bytes, persistent
+ found headerextra "config", 2652 bytes, persistent
+ found headerextra "mapinfo", 19 bytes, persistent
+read map packages\maps\official\ac_desert3.cgz rev 21 (8 milliseconds)
+Desert3 by Nieb
+loaded textures (54 milliseconds)
+loaded mapmodels (170 milliseconds)
+loaded mapsounds (529 milliseconds)
+EVENTS FILE OPENED: data\events_amir.csv
+MATCHES FILE OPENED: data\matches_amir.csv
+game mode is "TDM"
+time remaining: 15 minutes
+resolving hostname packages.cubers.net succeeded (51.79.7.196)
+http head packages.cubers.net:80/updates.txt response time: 683, status: 404, contentlength: 0
+successfully pinged 1 media server, 0 failures, 0 disabled
+T: 2.72 | Shoot: 0 | X: 53.00 Y: 64.00 Z: 0.50 | YawSpeed: 102.00 | PitchSpeed: 1.73 | MoveSpeed: 11.70
+SESSION STARTED
+MATCH LOGGED: M20260610_224231_728
+T: 2.96 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 89.82 | PitchSpeed: 1.27 | MoveSpeed: 151.20
+T: 3.17 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 3.37 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 3.57 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.64 | PitchSpeed: 0.09 | MoveSpeed: 0.00
+T: 3.77 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 3.98 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 4.18 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 4.38 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 4.59 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.09 | PitchSpeed: 0.09 | MoveSpeed: 0.00
+T: 4.79 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 4.99 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 5.20 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 5.40 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 5.60 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 5.81 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 6.01 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.09 | MoveSpeed: 0.00
+T: 6.21 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.18 | MoveSpeed: 0.00
+T: 6.41 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.09 | PitchSpeed: 0.45 | MoveSpeed: 0.00
+T: 6.62 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 6.82 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 7.02 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 7.22 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 7.42 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 7.63 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 7.83 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 8.03 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 8.23 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 8.43 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.18 | MoveSpeed: 0.00
+T: 8.63 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 8.84 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 9.04 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.09 | PitchSpeed: 0.18 | MoveSpeed: 0.00
+T: 9.24 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 9.44 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 9.65 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 9.85 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 10.05 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 10.25 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 10.45 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 10.66 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 10.87 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 11.07 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 11.27 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 11.47 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 11.68 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.09 | MoveSpeed: 0.00
+T: 11.88 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 12.08 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 12.28 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 12.48 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 12.68 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 12.89 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 13.09 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 13.29 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 13.49 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 13.70 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 13.90 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 14.10 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 14.30 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 14.50 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 14.70 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 14.91 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 15.11 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 15.31 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 15.51 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 15.71 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 15.91 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 16.12 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 16.32 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 16.53 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 16.73 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 16.93 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 17.13 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 17.34 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 17.54 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 17.75 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 17.95 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 18.16 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 18.37 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 18.57 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 18.77 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 18.97 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 19.17 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 19.37 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.09 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 19.58 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 19.78 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 19.98 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 20.18 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 20.39 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 20.59 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 20.79 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 20.99 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 21.19 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 21.40 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 21.60 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 21.80 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 22.00 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 22.20 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 22.40 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 22.60 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 22.81 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 23.01 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 23.22 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 23.42 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 23.62 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.09 | PitchSpeed: 0.36 | MoveSpeed: 0.00
+T: 23.83 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.09 | PitchSpeed: 0.64 | MoveSpeed: 0.00
+T: 24.04 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 24.24 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 24.44 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 24.65 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 24.85 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 25.05 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 25.25 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 25.46 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 25.66 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 25.86 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 26.07 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 26.27 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 26.47 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 26.68 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 26.88 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 27.08 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 4.73 | PitchSpeed: 0.55 | MoveSpeed: 0.00
+T: 27.29 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 11.91 | PitchSpeed: 0.55 | MoveSpeed: 0.00
+T: 27.49 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 28.82 | PitchSpeed: 1.27 | MoveSpeed: 0.00
+T: 27.69 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.55 | PitchSpeed: 0.18 | MoveSpeed: 0.00
+T: 27.89 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.09 | PitchSpeed: 0.09 | MoveSpeed: 0.00
+T: 28.10 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 28.30 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 28.50 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.18 | PitchSpeed: 0.09 | MoveSpeed: 0.00
+T: 28.71 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 28.92 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 29.12 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 29.32 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 29.52 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 29.72 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 29.92 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 30.13 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 30.33 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 30.53 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 30.73 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 30.93 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 31.14 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 31.34 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 31.54 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 31.74 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 31.95 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 32.15 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 32.35 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 32.55 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 32.77 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 32.97 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 33.18 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 33.38 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 33.58 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 33.78 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 5.00 | PitchSpeed: 3.91 | MoveSpeed: 0.00
+T: 33.98 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 10.45 | PitchSpeed: 3.36 | MoveSpeed: 0.00
+T: 34.18 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 34.39 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 34.59 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.27 | PitchSpeed: 0.18 | MoveSpeed: 0.00
+T: 34.79 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.64 | PitchSpeed: 0.09 | MoveSpeed: 0.00
+T: 34.99 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 0.36 | PitchSpeed: 2.18 | MoveSpeed: 0.00
+T: 35.20 | Shoot: 0 | X: 152.00 Y: 178.00 Z: 8.50 | YawSpeed: 9.09 | PitchSpeed: 7.55 | MoveSpeed: 0.00
+T: 35.40 | Shoot: 0 | X: 151.48 Y: 177.76 Z: 8.50 | YawSpeed: 8.64 | PitchSpeed: 1.00 | MoveSpeed: 0.57
+T: 35.60 | Shoot: 0 | X: 149.15 Y: 177.02 Z: 6.76 | YawSpeed: 12.82 | PitchSpeed: 1.18 | MoveSpeed: 3.00
+T: 35.81 | Shoot: 0 | X: 146.84 Y: 176.46 Z: 4.50 | YawSpeed: 0.00 | PitchSpeed: 8.15 | MoveSpeed: 3.28
+T: 36.01 | Shoot: 0 | X: 144.07 Y: 176.11 Z: 4.50 | YawSpeed: 0.82 | PitchSpeed: 0.75 | MoveSpeed: 2.79
+T: 36.21 | Shoot: 0 | X: 140.98 Y: 175.64 Z: 4.50 | YawSpeed: 18.00 | PitchSpeed: 5.83 | MoveSpeed: 3.13
+T: 36.41 | Shoot: 0 | X: 138.06 Y: 174.37 Z: 4.50 | YawSpeed: 15.36 | PitchSpeed: 4.46 | MoveSpeed: 3.18
+T: 36.61 | Shoot: 0 | X: 135.51 Y: 172.44 Z: 4.50 | YawSpeed: 20.18 | PitchSpeed: 0.09 | MoveSpeed: 3.19
+T: 36.82 | Shoot: 0 | X: 133.81 Y: 169.78 Z: 4.50 | YawSpeed: 13.73 | PitchSpeed: 0.82 | MoveSpeed: 3.16
+T: 37.02 | Shoot: 0 | X: 132.79 Y: 166.72 Z: 4.50 | YawSpeed: 17.36 | PitchSpeed: 1.45 | MoveSpeed: 3.22
+T: 37.23 | Shoot: 0 | X: 133.05 Y: 166.11 Z: 6.71 | YawSpeed: 11.36 | PitchSpeed: 1.73 | MoveSpeed: 2.31
+T: 37.43 | Shoot: 0 | X: 133.73 Y: 164.71 Z: 10.34 | YawSpeed: 0.18 | PitchSpeed: 0.27 | MoveSpeed: 3.95
+T: 37.63 | Shoot: 0 | X: 134.40 Y: 161.54 Z: 10.50 | YawSpeed: 7.82 | PitchSpeed: 3.18 | MoveSpeed: 3.25
+T: 37.83 | Shoot: 0 | X: 135.94 Y: 159.01 Z: 10.50 | YawSpeed: 66.45 | PitchSpeed: 0.73 | MoveSpeed: 2.96
+T: 38.04 | Shoot: 0 | X: 138.81 Y: 158.29 Z: 10.50 | YawSpeed: 4.45 | PitchSpeed: 1.73 | MoveSpeed: 2.97
+T: 38.24 | Shoot: 0 | X: 141.96 Y: 158.21 Z: 10.50 | YawSpeed: 2.55 | PitchSpeed: 0.18 | MoveSpeed: 3.15
+T: 38.44 | Shoot: 0 | X: 145.31 Y: 158.30 Z: 10.50 | YawSpeed: 39.82 | PitchSpeed: 0.82 | MoveSpeed: 3.34
+T: 38.64 | Shoot: 0 | X: 149.60 Y: 158.23 Z: 10.50 | YawSpeed: 30.82 | PitchSpeed: 1.64 | MoveSpeed: 4.29
+T: 38.84 | Shoot: 0 | X: 153.42 Y: 156.41 Z: 10.50 | YawSpeed: 20.82 | PitchSpeed: 2.45 | MoveSpeed: 4.24
+T: 39.05 | Shoot: 0 | X: 154.39 Y: 153.60 Z: 11.50 | YawSpeed: 20.27 | PitchSpeed: 0.64 | MoveSpeed: 3.13
+T: 39.25 | Shoot: 0 | X: 153.16 Y: 151.01 Z: 11.50 | YawSpeed: 5.82 | PitchSpeed: 0.55 | MoveSpeed: 2.87
+T: 39.46 | Shoot: 0 | X: 151.82 Y: 148.05 Z: 11.50 | YawSpeed: 15.18 | PitchSpeed: 2.18 | MoveSpeed: 3.25
+T: 39.66 | Shoot: 0 | X: 150.89 Y: 144.99 Z: 11.50 | YawSpeed: 5.00 | PitchSpeed: 0.36 | MoveSpeed: 3.20
+T: 39.86 | Shoot: 0 | X: 150.52 Y: 141.83 Z: 11.50 | YawSpeed: 17.91 | PitchSpeed: 2.91 | MoveSpeed: 3.18
+T: 40.06 | Shoot: 0 | X: 150.83 Y: 138.69 Z: 11.50 | YawSpeed: 0.55 | PitchSpeed: 0.18 | MoveSpeed: 3.16
+T: 40.26 | Shoot: 0 | X: 151.05 Y: 137.07 Z: 11.50 | YawSpeed: 16.00 | PitchSpeed: 4.45 | MoveSpeed: 1.64
+T: 40.47 | Shoot: 0 | X: 151.09 Y: 136.79 Z: 11.50 | YawSpeed: 0.73 | PitchSpeed: 0.36 | MoveSpeed: 0.28
+T: 40.67 | Shoot: 0 | X: 151.09 Y: 136.74 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.05
+T: 40.88 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.64 | PitchSpeed: 1.18 | MoveSpeed: 0.01
+T: 41.08 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.18 | MoveSpeed: 0.00
+T: 41.28 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 41.49 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.09 | PitchSpeed: 0.09 | MoveSpeed: 0.00
+T: 41.69 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.18 | PitchSpeed: 0.09 | MoveSpeed: 0.00
+T: 41.88 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 42.09 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.27 | PitchSpeed: 0.27 | MoveSpeed: 0.00
+T: 42.29 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.45 | MoveSpeed: 0.00
+T: 42.49 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 42.69 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.09 | MoveSpeed: 0.00
+T: 42.89 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.36 | MoveSpeed: 0.00
+T: 43.09 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.18 | MoveSpeed: 0.00
+T: 43.29 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.09 | PitchSpeed: 0.27 | MoveSpeed: 0.00
+T: 43.49 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.09 | MoveSpeed: 0.00
+T: 43.69 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.09 | PitchSpeed: 0.45 | MoveSpeed: 0.00
+T: 43.90 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 44.10 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.18 | PitchSpeed: 0.36 | MoveSpeed: 0.00
+T: 44.31 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.09 | PitchSpeed: 0.18 | MoveSpeed: 0.00
+T: 44.51 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 44.71 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.18 | PitchSpeed: 1.18 | MoveSpeed: 0.00
+T: 44.92 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.45 | MoveSpeed: 0.00
+T: 45.12 | Shoot: 0 | X: 151.09 Y: 136.73 Z: 11.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+starting botmatch..
+Amir called a vote: load map ac_arctic2 in mode BDM for 15 minutes
+vote passed
+ found headerextra "vantage point", 9 bytes, persistent
+ found headerextra "config", 3424 bytes, persistent
+ found headerextra "mapinfo", 17 bytes, persistent
+read map packages\maps\official\ac_arctic2.cgz rev 157 (16 milliseconds)
+Arctic2 by Halo & Snoosnoo
+loaded textures (84 milliseconds)
+loaded mapmodels (119 milliseconds)
+loaded mapsounds (0 milliseconds)
+EVENTS FILE OPENED: data\events_amir.csv
+MATCHES FILE OPENED: data\matches_amir.csv
+Waypoints aren't for map ac_arctic2 but for map 
+Starting flood, this may take a while on large maps....
+game mode is "BDM"
+Bot Deathmatch: It's every man and A.I. for themselves! Dismantle those bots!
+unresolved problems occurred during load_world(), warning: 0x8000
+time remaining: 15 minutes
+Reading bot_skill.cfg file... 
+done
+T: 45.70 | Shoot: 0 | X: 47.00 Y: 89.00 Z: 0.50 | YawSpeed: 57.64 | PitchSpeed: 1.94 | MoveSpeed: 115.04
+Bot connected: Tuborg
+Bot connected: XP|TheNameless
+Bot connected: Lapin_Kulta
+Bot connected: Mike
+Bot connected: Z00per_N00b
+Bot connected: Count_Draculol
+Bot connected: FPGA
+Bot connected: Shootme
+Bot connected: Dumb
+Bot connected: 0x0DEFACED
+Bot connected: CPLD
+Bot connected: stefanhendriks
+Bot connected: zaiBan
+Bot connected: Johnny5
+Bot connected: Robot
+SESSION STARTED
+MATCH LOGGED: M20260610_224314_774
+T: 45.91 | Shoot: 0 | X: 184.00 Y: 78.00 Z: 0.50 | YawSpeed: 127.73 | PitchSpeed: 0.72 | MoveSpeed: 137.44
+T: 46.13 | Shoot: 0 | X: 184.00 Y: 78.00 Z: 0.50 | YawSpeed: 2.36 | PitchSpeed: 4.18 | MoveSpeed: 0.00
+T: 46.41 | Shoot: 0 | X: 184.00 Y: 78.00 Z: 0.50 | YawSpeed: 26.09 | PitchSpeed: 4.55 | MoveSpeed: 0.00
+T: 46.64 | Shoot: 0 | X: 182.34 Y: 78.97 Z: 0.50 | YawSpeed: 8.00 | PitchSpeed: 1.55 | MoveSpeed: 1.92
+T: 46.84 | Shoot: 0 | X: 179.87 Y: 80.77 Z: 0.50 | YawSpeed: 14.64 | PitchSpeed: 1.91 | MoveSpeed: 3.06
+T: 47.05 | Shoot: 0 | X: 177.55 Y: 82.55 Z: 0.50 | YawSpeed: 14.64 | PitchSpeed: 1.91 | MoveSpeed: 2.92
+T: 48.97 | Shoot: 0 | X: 175.85 Y: 86.32 Z: 0.50 | YawSpeed: 89.09 | PitchSpeed: 0.00 | MoveSpeed: 4.13
+T: 49.17 | Shoot: 0 | X: 175.38 Y: 88.12 Z: 0.50 | YawSpeed: 33.64 | PitchSpeed: 2.91 | MoveSpeed: 1.87
+Added 1927 wps in 3820 milliseconds
+Filtered 2 wps
+Total size: 203.74 Kb
+T: 49.38 | Shoot: 0 | X: 175.38 Y: 88.12 Z: 0.50 | YawSpeed: 3.64 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 49.58 | Shoot: 0 | X: 175.13 Y: 87.60 Z: 0.50 | YawSpeed: 13.45 | PitchSpeed: 2.64 | MoveSpeed: 0.58
+T: 49.78 | Shoot: 0 | X: 174.40 Y: 85.08 Z: 0.50 | YawSpeed: 8.73 | PitchSpeed: 11.27 | MoveSpeed: 2.63
+T: 49.98 | Shoot: 0 | X: 173.93 Y: 82.03 Z: 0.50 | YawSpeed: 9.36 | PitchSpeed: 5.09 | MoveSpeed: 3.08
+T: 50.19 | Shoot: 0 | X: 173.91 Y: 78.80 Z: 0.50 | YawSpeed: 6.00 | PitchSpeed: 8.82 | MoveSpeed: 3.23
+T: 50.39 | Shoot: 0 | X: 174.23 Y: 75.51 Z: 0.50 | YawSpeed: 0.09 | PitchSpeed: 0.36 | MoveSpeed: 3.30
+T: 50.60 | Shoot: 0 | X: 174.62 Y: 72.28 Z: 2.39 | YawSpeed: 2.00 | PitchSpeed: 0.36 | MoveSpeed: 3.77
+T: 50.80 | Shoot: 0 | X: 174.98 Y: 69.05 Z: 3.42 | YawSpeed: 2.18 | PitchSpeed: 0.36 | MoveSpeed: 3.40
+T: 51.01 | Shoot: 0 | X: 175.31 Y: 65.77 Z: 1.76 | YawSpeed: 0.73 | PitchSpeed: 0.27 | MoveSpeed: 3.69
+T: 51.21 | Shoot: 0 | X: 175.59 Y: 62.46 Z: -2.28 | YawSpeed: 2.73 | PitchSpeed: 1.64 | MoveSpeed: 5.23
+T: 51.41 | Shoot: 0 | X: 175.86 Y: 59.29 Z: -4.99 | YawSpeed: 8.27 | PitchSpeed: 0.09 | MoveSpeed: 4.18
+T: 51.61 | Shoot: 0 | X: 176.27 Y: 56.06 Z: -7.27 | YawSpeed: 12.18 | PitchSpeed: 2.27 | MoveSpeed: 3.97
+T: 51.82 | Shoot: 0 | X: 177.01 Y: 52.97 Z: -4.95 | YawSpeed: 13.27 | PitchSpeed: 0.18 | MoveSpeed: 3.94
+T: 52.02 | Shoot: 0 | X: 178.13 Y: 50.08 Z: -4.83 | YawSpeed: 22.18 | PitchSpeed: 3.18 | MoveSpeed: 3.10
+T: 52.22 | Shoot: 0 | X: 179.75 Y: 47.56 Z: -7.21 | YawSpeed: 22.45 | PitchSpeed: 6.18 | MoveSpeed: 3.83
+T: 52.42 | Shoot: 0 | X: 182.05 Y: 46.11 Z: -7.50 | YawSpeed: 12.27 | PitchSpeed: 0.64 | MoveSpeed: 2.73
+T: 52.62 | Shoot: 0 | X: 185.09 Y: 46.13 Z: -7.38 | YawSpeed: 19.27 | PitchSpeed: 2.91 | MoveSpeed: 3.05
+T: 52.83 | Shoot: 0 | X: 187.96 Y: 47.34 Z: -6.93 | YawSpeed: 16.73 | PitchSpeed: 1.00 | MoveSpeed: 3.14
+T: 53.03 | Shoot: 0 | X: 190.56 Y: 48.99 Z: -6.88 | YawSpeed: 81.09 | PitchSpeed: 8.09 | MoveSpeed: 3.08
+T: 53.24 | Shoot: 0 | X: 190.89 Y: 47.78 Z: -6.75 | YawSpeed: 81.73 | PitchSpeed: 5.64 | MoveSpeed: 1.26
+Robot peppered 0x0DEFACED
+T: 53.44 | Shoot: 0 | X: 189.74 Y: 45.32 Z: -6.50 | YawSpeed: 23.09 | PitchSpeed: 2.55 | MoveSpeed: 2.73
+T: 53.64 | Shoot: 0 | X: 187.36 Y: 43.51 Z: -6.50 | YawSpeed: 21.64 | PitchSpeed: 10.91 | MoveSpeed: 2.99
+T: 53.84 | Shoot: 0 | X: 184.37 Y: 42.64 Z: -6.50 | YawSpeed: 12.73 | PitchSpeed: 2.91 | MoveSpeed: 3.12
+T: 54.05 | Shoot: 0 | X: 181.13 Y: 42.45 Z: -6.81 | YawSpeed: 5.73 | PitchSpeed: 1.73 | MoveSpeed: 3.25
+T: 54.25 | Shoot: 0 | X: 177.93 Y: 42.60 Z: -6.88 | YawSpeed: 3.55 | PitchSpeed: 1.00 | MoveSpeed: 3.20
+T: 54.45 | Shoot: 0 | X: 174.79 Y: 42.94 Z: -7.50 | YawSpeed: 2.18 | PitchSpeed: 6.09 | MoveSpeed: 3.22
+T: 54.65 | Shoot: 0 | X: 171.54 Y: 43.27 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 3.26
+T: 54.86 | Shoot: 0 | X: 168.26 Y: 43.59 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 3.30
+T: 55.06 | Shoot: 0 | X: 165.04 Y: 43.90 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 3.23
+T: 55.26 | Shoot: 0 | X: 161.89 Y: 44.20 Z: -7.50 | YawSpeed: 0.18 | PitchSpeed: 3.27 | MoveSpeed: 3.17
+T: 55.46 | Shoot: 0 | X: 158.74 Y: 44.55 Z: -7.50 | YawSpeed: 2.73 | PitchSpeed: 2.36 | MoveSpeed: 3.17
+T: 55.66 | Shoot: 0 | X: 155.43 Y: 45.02 Z: -7.38 | YawSpeed: 1.00 | PitchSpeed: 0.82 | MoveSpeed: 3.35
+T: 55.86 | Shoot: 0 | X: 152.51 Y: 45.49 Z: -7.44 | YawSpeed: 0.00 | PitchSpeed: 7.85 | MoveSpeed: 2.96
+T: 56.06 | Shoot: 0 | X: 149.69 Y: 45.99 Z: -7.13 | YawSpeed: 2.00 | PitchSpeed: 0.88 | MoveSpeed: 2.88
+T: 56.27 | Shoot: 0 | X: 146.50 Y: 46.60 Z: -7.26 | YawSpeed: 0.64 | PitchSpeed: 3.84 | MoveSpeed: 3.26
+T: 56.47 | Shoot: 0 | X: 143.40 Y: 47.20 Z: -7.00 | YawSpeed: 0.27 | PitchSpeed: 1.00 | MoveSpeed: 3.17
+T: 56.67 | Shoot: 0 | X: 140.18 Y: 47.83 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 1.82 | MoveSpeed: 3.31
+T: 56.88 | Shoot: 0 | X: 136.93 Y: 48.46 Z: -7.50 | YawSpeed: 1.64 | PitchSpeed: 3.18 | MoveSpeed: 3.31
+you peppered stefanhendriks
+T: 57.08 | Shoot: 0 | X: 134.26 Y: 48.93 Z: -7.50 | YawSpeed: 0.09 | PitchSpeed: 8.89 | MoveSpeed: 2.72
+T: 57.29 | Shoot: 0 | X: 131.12 Y: 49.47 Z: -7.50 | YawSpeed: 3.55 | PitchSpeed: 4.81 | MoveSpeed: 3.18
+zaiBan punctured Lapin_Kulta
+T: 57.49 | Shoot: 0 | X: 127.99 Y: 50.17 Z: -7.50 | YawSpeed: 0.45 | PitchSpeed: 7.19 | MoveSpeed: 3.21
+T: 57.69 | Shoot: 0 | X: 124.88 Y: 50.82 Z: -7.50 | YawSpeed: 5.00 | PitchSpeed: 2.27 | MoveSpeed: 3.18
+T: 57.89 | Shoot: 0 | X: 121.65 Y: 51.25 Z: -7.50 | YawSpeed: 8.64 | PitchSpeed: 0.91 | MoveSpeed: 3.26
+T: 58.09 | Shoot: 0 | X: 118.43 Y: 51.37 Z: -6.80 | YawSpeed: 3.64 | PitchSpeed: 0.27 | MoveSpeed: 3.30
+T: 58.29 | Shoot: 0 | X: 115.20 Y: 51.51 Z: -4.64 | YawSpeed: 5.18 | PitchSpeed: 0.36 | MoveSpeed: 3.89
+T: 58.49 | Shoot: 0 | X: 112.01 Y: 51.78 Z: -5.26 | YawSpeed: 26.09 | PitchSpeed: 1.45 | MoveSpeed: 3.26
+T: 58.70 | Shoot: 0 | X: 109.01 Y: 52.48 Z: -7.47 | YawSpeed: 30.00 | PitchSpeed: 2.36 | MoveSpeed: 3.79
+T: 58.91 | Shoot: 0 | X: 106.95 Y: 54.57 Z: -7.50 | YawSpeed: 19.27 | PitchSpeed: 2.09 | MoveSpeed: 2.94
+T: 59.12 | Shoot: 0 | X: 106.19 Y: 57.68 Z: -7.50 | YawSpeed: 0.91 | PitchSpeed: 0.27 | MoveSpeed: 3.20
+T: 59.32 | Shoot: 0 | X: 105.96 Y: 60.84 Z: -7.50 | YawSpeed: 7.27 | PitchSpeed: 1.27 | MoveSpeed: 3.17
+T: 59.53 | Shoot: 0 | X: 105.97 Y: 64.11 Z: -7.50 | YawSpeed: 1.91 | PitchSpeed: 0.36 | MoveSpeed: 3.27
+T: 59.74 | Shoot: 0 | X: 105.94 Y: 64.89 Z: -7.50 | YawSpeed: 8.64 | PitchSpeed: 0.91 | MoveSpeed: 0.78
+Count_Draculol peppered FPGA
+T: 59.94 | Shoot: 0 | X: 104.06 Y: 65.74 Z: -7.50 | YawSpeed: 1.64 | PitchSpeed: 0.18 | MoveSpeed: 2.06
+T: 60.15 | Shoot: 0 | X: 102.46 Y: 68.84 Z: -7.50 | YawSpeed: 3.73 | PitchSpeed: 0.64 | MoveSpeed: 3.49
+T: 60.35 | Shoot: 0 | X: 99.92 Y: 71.21 Z: -7.50 | YawSpeed: 21.82 | PitchSpeed: 3.18 | MoveSpeed: 3.48
+T: 60.56 | Shoot: 0 | X: 96.08 Y: 72.66 Z: -7.50 | YawSpeed: 8.09 | PitchSpeed: 0.82 | MoveSpeed: 4.10
+T: 60.76 | Shoot: 0 | X: 95.23 Y: 75.53 Z: -7.50 | YawSpeed: 13.45 | PitchSpeed: 1.64 | MoveSpeed: 2.98
+T: 60.96 | Shoot: 0 | X: 95.87 Y: 78.88 Z: -7.50 | YawSpeed: 16.00 | PitchSpeed: 0.91 | MoveSpeed: 3.41
+Shootme busted Count_Draculol
+T: 61.17 | Shoot: 0 | X: 97.21 Y: 81.98 Z: -7.50 | YawSpeed: 5.00 | PitchSpeed: 0.27 | MoveSpeed: 3.38
+T: 61.37 | Shoot: 0 | X: 100.41 Y: 82.90 Z: -7.50 | YawSpeed: 4.91 | PitchSpeed: 0.27 | MoveSpeed: 3.33
+T: 61.57 | Shoot: 0 | X: 102.09 Y: 85.21 Z: -7.50 | YawSpeed: 10.09 | PitchSpeed: 0.00 | MoveSpeed: 2.86
+T: 61.77 | Shoot: 0 | X: 102.14 Y: 88.34 Z: -7.50 | YawSpeed: 17.27 | PitchSpeed: 1.45 | MoveSpeed: 3.13
+T: 61.97 | Shoot: 0 | X: 101.10 Y: 91.02 Z: -7.50 | YawSpeed: 59.27 | PitchSpeed: 5.73 | MoveSpeed: 2.88
+T: 62.18 | Shoot: 0 | X: 101.10 Y: 91.87 Z: -7.50 | YawSpeed: 11.91 | PitchSpeed: 1.00 | MoveSpeed: 0.85
+T: 62.38 | Shoot: 0 | X: 101.83 Y: 91.59 Z: -7.50 | YawSpeed: 48.27 | PitchSpeed: 2.91 | MoveSpeed: 0.79
+T: 62.59 | Shoot: 0 | X: 103.41 Y: 91.85 Z: -7.50 | YawSpeed: 6.18 | PitchSpeed: 0.45 | MoveSpeed: 1.60
+T: 62.79 | Shoot: 0 | X: 104.54 Y: 93.49 Z: -7.50 | YawSpeed: 1.45 | PitchSpeed: 0.55 | MoveSpeed: 1.99
+T: 62.99 | Shoot: 0 | X: 103.27 Y: 95.84 Z: -7.50 | YawSpeed: 2.64 | PitchSpeed: 0.00 | MoveSpeed: 2.67
+T: 63.19 | Shoot: 0 | X: 101.28 Y: 98.18 Z: -7.50 | YawSpeed: 4.18 | PitchSpeed: 0.18 | MoveSpeed: 3.07
+T: 63.39 | Shoot: 0 | X: 101.10 Y: 100.84 Z: -7.50 | YawSpeed: 65.73 | PitchSpeed: 0.18 | MoveSpeed: 2.67
+T: 63.59 | Shoot: 0 | X: 101.71 Y: 103.70 Z: -7.50 | YawSpeed: 0.73 | PitchSpeed: 0.18 | MoveSpeed: 2.92
+T: 63.80 | Shoot: 0 | X: 101.56 Y: 106.18 Z: -7.50 | YawSpeed: 79.27 | PitchSpeed: 6.09 | MoveSpeed: 2.49
+stefanhendriks slashed Tuborg
+T: 64.01 | Shoot: 0 | X: 100.66 Y: 108.90 Z: -7.50 | YawSpeed: 31.55 | PitchSpeed: 1.09 | MoveSpeed: 2.86
+T: 64.21 | Shoot: 0 | X: 98.93 Y: 108.90 Z: -7.50 | YawSpeed: 18.00 | PitchSpeed: 0.09 | MoveSpeed: 1.73
+T: 64.41 | Shoot: 0 | X: 98.97 Y: 108.36 Z: -7.50 | YawSpeed: 9.73 | PitchSpeed: 0.91 | MoveSpeed: 0.54
+T: 64.62 | Shoot: 0 | X: 100.39 Y: 106.10 Z: -7.50 | YawSpeed: 8.55 | PitchSpeed: 0.27 | MoveSpeed: 2.67
+T: 64.82 | Shoot: 0 | X: 101.72 Y: 103.23 Z: -7.50 | YawSpeed: 7.45 | PitchSpeed: 0.36 | MoveSpeed: 3.16
+0x0DEFACED peppered Johnny5
+T: 65.03 | Shoot: 0 | X: 102.64 Y: 100.54 Z: -7.50 | YawSpeed: 0.73 | PitchSpeed: 7.89 | MoveSpeed: 2.84
+T: 65.23 | Shoot: 0 | X: 103.75 Y: 97.78 Z: -7.50 | YawSpeed: 20.82 | PitchSpeed: 3.64 | MoveSpeed: 2.97
+T: 65.43 | Shoot: 1 | X: 105.68 Y: 95.29 Z: -7.50 | YawSpeed: 14.82 | PitchSpeed: 3.55 | MoveSpeed: 3.15
+T: 65.64 | Shoot: 1 | X: 108.39 Y: 93.61 Z: -7.50 | YawSpeed: 40.55 | PitchSpeed: 6.73 | MoveSpeed: 3.19
+T: 65.85 | Shoot: 0 | X: 108.70 Y: 93.31 Z: -7.50 | YawSpeed: 24.91 | PitchSpeed: 2.73 | MoveSpeed: 0.43
+you were slashed by Mike
+T: 66.06 | Shoot: 0 | X: 108.22 Y: 93.08 Z: -7.50 | YawSpeed: 3.45 | PitchSpeed: 12.79 | MoveSpeed: 0.53
+T: 66.26 | Shoot: 0 | X: 108.12 Y: 93.03 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.11
+T: 66.46 | Shoot: 0 | X: 108.10 Y: 93.02 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.02
+T: 66.67 | Shoot: 0 | X: 108.10 Y: 93.02 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 66.87 | Shoot: 0 | X: 108.10 Y: 93.02 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 67.08 | Shoot: 0 | X: 108.10 Y: 93.02 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 67.28 | Shoot: 0 | X: 108.10 Y: 93.02 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 67.49 | Shoot: 0 | X: 108.10 Y: 93.02 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 67.69 | Shoot: 0 | X: 108.10 Y: 93.02 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 67.89 | Shoot: 0 | X: 108.10 Y: 93.02 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 68.10 | Shoot: 1 | X: 47.10 Y: 88.99 Z: 0.50 | YawSpeed: 35.45 | PitchSpeed: 0.09 | MoveSpeed: 61.65
+T: 68.32 | Shoot: 0 | X: 48.87 Y: 89.06 Z: 0.50 | YawSpeed: 22.09 | PitchSpeed: 7.31 | MoveSpeed: 1.77
+T: 68.52 | Shoot: 0 | X: 51.60 Y: 89.84 Z: 0.50 | YawSpeed: 0.91 | PitchSpeed: 0.95 | MoveSpeed: 2.84
+T: 68.72 | Shoot: 0 | X: 54.82 Y: 90.77 Z: 0.50 | YawSpeed: 48.45 | PitchSpeed: 0.47 | MoveSpeed: 3.35
+T: 68.92 | Shoot: 0 | X: 57.17 Y: 89.48 Z: 0.50 | YawSpeed: 50.73 | PitchSpeed: 7.00 | MoveSpeed: 2.68
+T: 69.13 | Shoot: 0 | X: 58.17 Y: 86.61 Z: 0.50 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 3.04
+T: 69.34 | Shoot: 0 | X: 58.74 Y: 83.40 Z: 0.50 | YawSpeed: 16.27 | PitchSpeed: 5.64 | MoveSpeed: 3.26
+T: 69.55 | Shoot: 0 | X: 57.64 Y: 80.90 Z: 0.50 | YawSpeed: 13.45 | PitchSpeed: 3.18 | MoveSpeed: 2.73
+Dumb busted Z00per_N00b
+T: 69.75 | Shoot: 0 | X: 56.71 Y: 77.75 Z: -0.32 | YawSpeed: 0.18 | PitchSpeed: 0.36 | MoveSpeed: 3.39
+T: 69.96 | Shoot: 0 | X: 55.70 Y: 74.63 Z: -3.52 | YawSpeed: 27.00 | PitchSpeed: 0.09 | MoveSpeed: 4.58
+T: 70.17 | Shoot: 0 | X: 54.36 Y: 71.75 Z: -7.50 | YawSpeed: 28.09 | PitchSpeed: 1.00 | MoveSpeed: 5.09
+T: 70.37 | Shoot: 0 | X: 51.78 Y: 70.19 Z: -7.50 | YawSpeed: 1.82 | PitchSpeed: 1.27 | MoveSpeed: 3.02
+T: 70.57 | Shoot: 0 | X: 48.80 Y: 69.50 Z: -7.50 | YawSpeed: 40.73 | PitchSpeed: 4.45 | MoveSpeed: 3.05
+T: 70.78 | Shoot: 0 | X: 45.93 Y: 68.70 Z: -7.50 | YawSpeed: 0.91 | PitchSpeed: 0.18 | MoveSpeed: 2.98
+T: 70.98 | Shoot: 0 | X: 46.24 Y: 66.69 Z: -7.50 | YawSpeed: 28.45 | PitchSpeed: 4.18 | MoveSpeed: 2.04
+T: 71.18 | Shoot: 0 | X: 47.76 Y: 64.26 Z: -7.31 | YawSpeed: 10.64 | PitchSpeed: 2.27 | MoveSpeed: 2.87
+CPLD sprayed Robot
+T: 71.38 | Shoot: 0 | X: 47.26 Y: 62.47 Z: -7.25 | YawSpeed: 9.91 | PitchSpeed: 1.09 | MoveSpeed: 1.85
+T: 71.59 | Shoot: 0 | X: 46.90 Y: 62.10 Z: -6.88 | YawSpeed: 10.36 | PitchSpeed: 3.09 | MoveSpeed: 0.64
+T: 71.80 | Shoot: 0 | X: 46.84 Y: 62.10 Z: -6.88 | YawSpeed: 19.55 | PitchSpeed: 2.00 | MoveSpeed: 0.06
+T: 72.00 | Shoot: 0 | X: 46.09 Y: 62.10 Z: -6.83 | YawSpeed: 0.18 | PitchSpeed: 7.32 | MoveSpeed: 0.75
+T: 72.20 | Shoot: 0 | X: 45.06 Y: 62.10 Z: -6.69 | YawSpeed: 21.64 | PitchSpeed: 4.58 | MoveSpeed: 1.04
+T: 72.41 | Shoot: 0 | X: 43.22 Y: 62.22 Z: -6.69 | YawSpeed: 3.82 | PitchSpeed: 2.13 | MoveSpeed: 1.85
+T: 72.62 | Shoot: 0 | X: 41.10 Y: 63.95 Z: -6.50 | YawSpeed: 11.27 | PitchSpeed: 1.18 | MoveSpeed: 2.73
+T: 72.83 | Shoot: 0 | X: 40.10 Y: 65.24 Z: -7.00 | YawSpeed: 6.45 | PitchSpeed: 0.64 | MoveSpeed: 1.71
+T: 73.03 | Shoot: 0 | X: 40.11 Y: 65.10 Z: -6.97 | YawSpeed: 1.73 | PitchSpeed: 8.05 | MoveSpeed: 0.14
+T: 73.23 | Shoot: 0 | X: 40.10 Y: 65.10 Z: -6.51 | YawSpeed: 6.00 | PitchSpeed: 8.95 | MoveSpeed: 0.46
+T: 73.43 | Shoot: 1 | X: 40.10 Y: 65.12 Z: -6.77 | YawSpeed: 17.36 | PitchSpeed: 7.03 | MoveSpeed: 0.26
+you were peppered by Johnny5
+stefanhendriks picked off 0x0DEFACED
+T: 73.64 | Shoot: 0 | X: 40.10 Y: 65.11 Z: -6.65 | YawSpeed: 12.27 | PitchSpeed: 6.71 | MoveSpeed: 0.12
+T: 73.85 | Shoot: 0 | X: 40.10 Y: 65.11 Z: -6.65 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 74.05 | Shoot: 0 | X: 40.10 Y: 65.11 Z: -6.65 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 74.25 | Shoot: 0 | X: 40.10 Y: 65.11 Z: -6.67 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.02
+T: 74.46 | Shoot: 0 | X: 40.10 Y: 65.11 Z: -6.67 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 74.67 | Shoot: 0 | X: 40.10 Y: 65.11 Z: -6.67 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 74.88 | Shoot: 0 | X: 40.10 Y: 65.11 Z: -6.67 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 75.07 | Shoot: 0 | X: 40.10 Y: 65.11 Z: -6.67 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 75.28 | Shoot: 0 | X: 40.10 Y: 65.11 Z: -6.67 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 75.49 | Shoot: 0 | X: 40.10 Y: 65.11 Z: -6.67 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 75.69 | Shoot: 0 | X: 40.10 Y: 65.11 Z: -6.67 | YawSpeed: 0.00 | PitchSpeed: 0.00 | MoveSpeed: 0.00
+T: 75.90 | Shoot: 0 | X: 47.00 Y: 89.00 Z: 0.50 | YawSpeed: 4.09 | PitchSpeed: 1.01 | MoveSpeed: 25.88
+T: 76.10 | Shoot: 0 | X: 47.00 Y: 89.00 Z: 0.50 | YawSpeed: 1.82 | PitchSpeed: 1.64 | MoveSpeed: 0.00
+T: 76.30 | Shoot: 0 | X: 48.26 Y: 88.88 Z: 0.50 | YawSpeed: 19.64 | PitchSpeed: 5.27 | MoveSpeed: 1.26
+T: 76.51 | Shoot: 0 | X: 50.56 Y: 87.42 Z: 0.50 | YawSpeed: 36.36 | PitchSpeed: 3.09 | MoveSpeed: 2.73
+T: 76.72 | Shoot: 0 | X: 52.38 Y: 84.73 Z: 0.50 | YawSpeed: 0.91 | PitchSpeed: 13.55 | MoveSpeed: 3.24
+T: 76.92 | Shoot: 0 | X: 54.13 Y: 82.05 Z: 0.50 | YawSpeed: 7.55 | PitchSpeed: 5.27 | MoveSpeed: 3.20
+you peppered Dumb
+T: 77.12 | Shoot: 0 | X: 55.96 Y: 79.54 Z: 0.50 | YawSpeed: 0.82 | PitchSpeed: 6.15 | MoveSpeed: 3.10
+T: 77.33 | Shoot: 0 | X: 57.69 Y: 77.30 Z: -0.34 | YawSpeed: 5.64 | PitchSpeed: 4.86 | MoveSpeed: 2.96
+T: 77.54 | Shoot: 0 | X: 59.52 Y: 74.72 Z: -0.49 | YawSpeed: 7.55 | PitchSpeed: 2.39 | MoveSpeed: 3.17
+T: 77.75 | Shoot: 0 | X: 60.96 Y: 72.06 Z: -2.85 | YawSpeed: 57.27 | PitchSpeed: 1.91 | MoveSpeed: 3.83
+T: 77.95 | Shoot: 0 | X: 61.49 Y: 69.40 Z: -7.18 | YawSpeed: 37.64 | PitchSpeed: 5.00 | MoveSpeed: 5.11
+T: 78.15 | Shoot: 0 | X: 61.50 Y: 69.28 Z: -7.50 | YawSpeed: 25.55 | PitchSpeed: 6.09 | MoveSpeed: 0.34
+Johnny5 peppered Z00per_N00b
+T: 78.36 | Shoot: 0 | X: 61.29 Y: 70.97 Z: -7.50 | YawSpeed: 68.09 | PitchSpeed: 6.09 | MoveSpeed: 1.70
+T: 78.56 | Shoot: 0 | X: 61.11 Y: 72.87 Z: -7.50 | YawSpeed: 31.18 | PitchSpeed: 1.27 | MoveSpeed: 1.92
+T: 78.76 | Shoot: 0 | X: 60.62 Y: 75.65 Z: -7.38 | YawSpeed: 43.64 | PitchSpeed: 0.18 | MoveSpeed: 2.82
+T: 78.96 | Shoot: 0 | X: 59.30 Y: 76.88 Z: -7.38 | YawSpeed: 13.91 | PitchSpeed: 5.18 | MoveSpeed: 1.80
+T: 79.17 | Shoot: 0 | X: 59.27 Y: 75.35 Z: -7.50 | YawSpeed: 16.82 | PitchSpeed: 0.91 | MoveSpeed: 1.53
+T: 79.37 | Shoot: 0 | X: 61.73 Y: 74.52 Z: -7.50 | YawSpeed: 21.27 | PitchSpeed: 1.00 | MoveSpeed: 2.59
+T: 79.57 | Shoot: 0 | X: 64.70 Y: 75.07 Z: -7.31 | YawSpeed: 25.91 | PitchSpeed: 1.27 | MoveSpeed: 3.02
+T: 79.78 | Shoot: 0 | X: 67.27 Y: 76.38 Z: -7.12 | YawSpeed: 21.73 | PitchSpeed: 1.36 | MoveSpeed: 2.89
+you splattered Johnny5
+T: 79.98 | Shoot: 0 | X: 69.63 Y: 77.16 Z: -7.44 | YawSpeed: 1.09 | PitchSpeed: 8.37 | MoveSpeed: 2.50
+T: 80.18 | Shoot: 0 | X: 70.89 Y: 76.90 Z: -7.50 | YawSpeed: 10.27 | PitchSpeed: 7.84 | MoveSpeed: 1.29
+T: 80.39 | Shoot: 0 | X: 70.89 Y: 76.43 Z: -7.50 | YawSpeed: 64.36 | PitchSpeed: 5.28 | MoveSpeed: 0.47
+T: 80.59 | Shoot: 0 | X: 71.89 Y: 74.34 Z: -7.50 | YawSpeed: 41.36 | PitchSpeed: 0.45 | MoveSpeed: 2.32
+T: 80.80 | Shoot: 0 | X: 74.04 Y: 73.04 Z: -7.50 | YawSpeed: 4.73 | PitchSpeed: 2.73 | MoveSpeed: 2.51
+T: 81.00 | Shoot: 0 | X: 77.21 Y: 72.19 Z: -7.50 | YawSpeed: 0.27 | PitchSpeed: 0.09 | MoveSpeed: 3.28
+T: 81.21 | Shoot: 0 | X: 80.35 Y: 71.47 Z: -7.50 | YawSpeed: 5.18 | PitchSpeed: 3.00 | MoveSpeed: 3.23
+T: 81.41 | Shoot: 0 | X: 83.52 Y: 70.94 Z: -7.50 | YawSpeed: 0.27 | PitchSpeed: 0.09 | MoveSpeed: 3.21
+T: 81.61 | Shoot: 0 | X: 86.69 Y: 70.51 Z: -7.50 | YawSpeed: 3.73 | PitchSpeed: 0.09 | MoveSpeed: 3.20
+T: 81.82 | Shoot: 0 | X: 90.00 Y: 70.52 Z: -7.50 | YawSpeed: 30.45 | PitchSpeed: 2.09 | MoveSpeed: 3.30
+T: 82.04 | Shoot: 0 | X: 93.06 Y: 71.73 Z: -7.50 | YawSpeed: 15.82 | PitchSpeed: 5.91 | MoveSpeed: 3.30
+T: 82.25 | Shoot: 0 | X: 95.65 Y: 73.96 Z: -7.50 | YawSpeed: 10.45 | PitchSpeed: 3.18 | MoveSpeed: 3.41
+T: 82.45 | Shoot: 0 | X: 97.76 Y: 76.48 Z: -7.50 | YawSpeed: 5.45 | PitchSpeed: 7.18 | MoveSpeed: 3.29
+T: 82.66 | Shoot: 0 | X: 99.90 Y: 78.96 Z: -7.50 | YawSpeed: 5.64 | PitchSpeed: 2.45 | MoveSpeed: 3.27
+T: 82.86 | Shoot: 0 | X: 102.23 Y: 81.17 Z: -7.50 | YawSpeed: 46.27 | PitchSpeed: 1.00 | MoveSpeed: 3.21
+T: 83.07 | Shoot: 0 | X: 102.28 Y: 83.69 Z: -7.50 | YawSpeed: 10.36 | PitchSpeed: 0.27 | MoveSpeed: 2.52
+T: 83.27 | Shoot: 0 | X: 101.10 Y: 85.12 Z: -7.50 | YawSpeed: 41.73 | PitchSpeed: 1.64 | MoveSpeed: 1.85
+T: 83.47 | Shoot: 0 | X: 101.10 Y: 87.34 Z: -7.50 | YawSpeed: 48.91 | PitchSpeed: 0.82 | MoveSpeed: 2.22
+T: 83.67 | Shoot: 0 | X: 101.34 Y: 90.22 Z: -7.50 | YawSpeed: 32.91 | PitchSpeed: 0.45 | MoveSpeed: 2.88
+T: 83.88 | Shoot: 0 | X: 102.65 Y: 93.11 Z: -7.50 | YawSpeed: 18.91 | PitchSpeed: 1.45 | MoveSpeed: 3.17
+Count_Draculol peppered stefanhendriks
+T: 84.08 | Shoot: 0 | X: 105.20 Y: 94.90 Z: -7.50 | YawSpeed: 1.36 | PitchSpeed: 0.36 | MoveSpeed: 3.11
+T: 84.29 | Shoot: 0 | X: 107.25 Y: 93.09 Z: -7.50 | YawSpeed: 1.36 | PitchSpeed: 0.00 | MoveSpeed: 2.73
+T: 84.49 | Shoot: 0 | X: 106.58 Y: 90.33 Z: -7.50 | YawSpeed: 25.18 | PitchSpeed: 0.36 | MoveSpeed: 2.84
+T: 84.70 | Shoot: 0 | X: 104.80 Y: 87.66 Z: -7.50 | YawSpeed: 0.73 | PitchSpeed: 0.18 | MoveSpeed: 3.21
+T: 84.90 | Shoot: 0 | X: 104.09 Y: 83.69 Z: -7.50 | YawSpeed: 18.09 | PitchSpeed: 0.18 | MoveSpeed: 4.03
+T: 85.11 | Shoot: 0 | X: 102.40 Y: 79.57 Z: -7.50 | YawSpeed: 37.27 | PitchSpeed: 0.55 | MoveSpeed: 4.45
+T: 85.31 | Shoot: 0 | X: 99.02 Y: 77.06 Z: -7.50 | YawSpeed: 14.91 | PitchSpeed: 1.18 | MoveSpeed: 4.21
+you peppered Mike
+T: 85.52 | Shoot: 0 | X: 96.08 Y: 77.27 Z: -7.50 | YawSpeed: 31.82 | PitchSpeed: 9.08 | MoveSpeed: 2.95
+T: 85.72 | Shoot: 0 | X: 94.24 Y: 79.16 Z: -7.50 | YawSpeed: 7.73 | PitchSpeed: 9.07 | MoveSpeed: 2.64
+Count_Draculol peppered zaiBan
+T: 85.93 | Shoot: 0 | X: 92.42 Y: 81.37 Z: -7.50 | YawSpeed: 2.27 | PitchSpeed: 0.25 | MoveSpeed: 2.86
+T: 86.14 | Shoot: 0 | X: 91.78 Y: 82.18 Z: -7.50 | YawSpeed: 12.64 | PitchSpeed: 2.64 | MoveSpeed: 1.04
+T: 86.33 | Shoot: 0 | X: 91.66 Y: 82.32 Z: -7.50 | YawSpeed: 22.55 | PitchSpeed: 0.36 | MoveSpeed: 0.18
+T: 86.54 | Shoot: 0 | X: 91.64 Y: 82.35 Z: -7.50 | YawSpeed: 4.27 | PitchSpeed: 2.36 | MoveSpeed: 0.03
+T: 86.74 | Shoot: 0 | X: 91.64 Y: 82.35 Z: -7.50 | YawSpeed: 1.18 | PitchSpeed: 3.00 | MoveSpeed: 0.01
+FPGA picked off 0x0DEFACED
+T: 86.94 | Shoot: 0 | X: 91.64 Y: 82.36 Z: -7.50 | YawSpeed: 0.27 | PitchSpeed: 1.73 | MoveSpeed: 0.00
+T: 87.14 | Shoot: 0 | X: 91.64 Y: 82.36 Z: -7.50 | YawSpeed: 0.09 | PitchSpeed: 0.82 | MoveSpeed: 0.00
+T: 87.35 | Shoot: 0 | X: 91.64 Y: 82.36 Z: -7.50 | YawSpeed: 0.00 | PitchSpeed: 0.09 | MoveSpeed: 0.00
+T: 87.55 | Shoot: 0 | X: 91.64 Y: 82.36 Z: -7.50 | YawSpeed: 0.18 | PitchSpeed: 0.45 | MoveSpeed: 0.00
+writing to file: profile\config\init.cfg
+writing to file: profile\config\servers.cfg
+writing to file: profile\config\pcksources.cfg
+writing to file: profile\config\saved.cfg
+writing to file: profile\config\history
+writing to file: profile\config\mapmodelattributes.cfg
+writing to file: profile\private\entropy.dat
+writing to file: profile\mapediting\xmaps\(backup)load_map_ac_arid.xmap
+bot Tuborg disconnected
+bot XP|TheNameless disconnected
+bot Lapin_Kulta disconnected
+bot Mike disconnected
+bot Z00per_N00b disconnected
+bot Count_Draculol disconnected
+bot FPGA disconnected
+bot Shootme disconnected
+bot Dumb disconnected
+bot 0x0DEFACED disconnected
+bot CPLD disconnected
+bot stefanhendriks disconnected
+bot zaiBan disconnected
+bot Johnny5 disconnected
+bot Robot disconnected
