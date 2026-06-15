@@ -1,0 +1,22 @@
+event_id,match_id,player_id,event_type,event_timestamp_sec,weapon,target_id,source,notes
+E_M20260615_094359_778_000,M20260615_094359_778,P001,kill,162.38,shotgun,4,game_hook,player kill event
+E_M20260615_094359_778_001,M20260615_094359_778,P001,death,172.25,shotgun,1,game_hook,player death event
+E_M20260615_094359_778_002,M20260615_094359_778,P001,kill,212.18,grenade,1,game_hook,player kill event
+E_M20260615_094359_778_003,M20260615_094359_778,P001,kill,212.18,grenade,3,game_hook,player kill event
+E_M20260615_094359_778_004,M20260615_094359_778,P001,kill,216.40,shotgun,2,game_hook,player kill event
+E_M20260615_094359_778_005,M20260615_094359_778,P001,death,224.39,carbine,3,game_hook,player death event
+E_M20260615_094359_778_006,M20260615_094359_778,P001,kill,263.72,shotgun,6,game_hook,player kill event
+E_M20260615_094359_778_007,M20260615_094359_778,P001,kill,264.77,shotgun,4,game_hook,player kill event
+E_M20260615_094359_778_008,M20260615_094359_778,P001,death,267.79,assault,1,game_hook,player death event
+E_M20260615_094609_737_009,M20260615_094609_737,P001,kill,340.40,shotgun,3,game_hook,player kill event
+E_M20260615_094609_737_010,M20260615_094609_737,P001,death,347.79,assault,4,game_hook,player death event
+E_M20260615_114840_563_000,M20260615_114840_563,P001,kill,74.78,shotgun,4,game_hook,player kill event
+E_M20260615_114840_563_001,M20260615_114840_563,P001,death,87.21,shotgun,4,game_hook,player death event
+E_M20260615_114840_563_002,M20260615_114840_563,P001,kill,103.25,shotgun,3,game_hook,player kill event
+E_M20260615_114840_563_003,M20260615_114840_563,P001,kill,108.17,shotgun,4,game_hook,player kill event
+E_M20260615_114840_563_004,M20260615_114840_563,P001,death,108.50,grenade,4,game_hook,player death event
+E_M20260615_114840_563_005,M20260615_114840_563,P001,kill,130.72,shotgun,2,game_hook,player kill event
+E_M20260615_114840_563_006,M20260615_114840_563,P001,kill,133.49,shotgun,3,game_hook,player kill event
+E_M20260615_114840_563_007,M20260615_114840_563,P001,death,142.06,subgun,3,game_hook,player death event
+E_M20260615_114840_563_008,M20260615_114840_563,P001,kill,152.14,shotgun,1,game_hook,player kill event
+E_M20260615_114840_563_009,M20260615_114840_563,P001,kill,156.12,shotgun,3,game_hook,player kill event
