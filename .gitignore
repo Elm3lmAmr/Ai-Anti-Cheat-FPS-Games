@@ -4,3 +4,7 @@
 *.pdb
 *.user
 *.suo
+
+# Next.js
+node_modules/
+.next/
