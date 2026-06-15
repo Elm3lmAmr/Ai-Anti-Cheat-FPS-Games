@@ -1,0 +1,6 @@
+# Visual Studio cache / IntelliSense (contain files > 100MB)
+.vs/
+*.ipch
+*.pdb
+*.user
+*.suo
