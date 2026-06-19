@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+anti_cheat_outputs/
+Our Data New/
+*.zip
+*.csv
+.env
